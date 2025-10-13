@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Merhabalar+Ben+Gökhan;Backend+ve+Web+Geliştiricisiyim;Java+ile+projeler+geliştirmeye+çalışıyorum.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Merhabalar,+Ben+Gökhan;Backend+ve+Web+Geliştiricisiyim;Java+ile+projeler+geliştirmeye+çalışıyorum.)](https://git.io/typing-svg)
 
 ---
 
-## Merhabalar, Ben Gökhan
+### Merhabalar, Ben Gökhan
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square)
 
