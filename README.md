@@ -21,9 +21,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan9&layout=compact&theme=tokyonight)
 
 ---
 
 ✨ Linkedln: https://www.linkedin.com/in/gokhancomert/ 
+
 📫 Bana Ulaş: gcancomert@gmail.com
