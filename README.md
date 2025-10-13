@@ -1,21 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Merhaba+👋+Ben+Gökhan;Backend+ve+Web+Geliştiricisiyim;Java,+Go,+React+ile+projeler+geliştiriyorum)](https://git.io/typing-svg)
 
-# Merhaba 👋, ben Gökhan
+---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square)
 
 ### 💻 İlgi Alanlarım
 
-| Alan | Teknolojiler |
-|------|--------------|
-| 🌐 **Web** | HTML · CSS · JavaScript · React |
-| ⚙️ **Backend** | Java · Go |
-| 🗄️ **Veritabanı** | MySQL · PostgreSQL |
-| ☁️ **DevOps & Tools** | Docker · Git |
-
+- 🌐 Web: HTML, CSS, JavaScript, React  
+- ⚙️ Backend: Java, Go  
+- 🗄️ Veritabanı: MySQL, PostgreSQL  
+- ☁️ DevOps & Tools: Docker, Git
+- 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 Kullandığım ve İlgi Duyduğum Teknolojiler
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,mysql,postgresql,docker,git&perline=8" />
