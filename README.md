@@ -2,6 +2,8 @@
 
 ---
 
+Merhabalar, Ben Gökhan
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square)
 
 ### 💻 İlgi Alanlarım
@@ -10,7 +12,7 @@
 - ⚙️ Backend: Java, Go  
 - 🗄️ Veritabanı: MySQL, PostgreSQL  
 - ☁️ DevOps & Tools: Docker, Git
-- 
+
 ---
 
 ### 🚀 Kullandığım ve İlgi Duyduğum Teknolojiler
