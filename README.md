@@ -4,12 +4,26 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square)
 
-💻 Geliştirdiğim teknolojiler ve ilgi alanlarım:
+### 💻 İlgi Alanlarım
 
-- 🌐 Web: HTML, CSS, JavaScript, React  
-- ⚙️ Backend: Java, Go  
-- 🗄️ Veritabanı: MySQL, PostgreSQL  
-- ☁️ DevOps & Tools: Docker, Git  
+**🌐 Web**  
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![React](https://skillicons.dev/icons?i=react)  
+
+**⚙️ Backend**  
+![Java](https://skillicons.dev/icons?i=java) 
+![Go](https://skillicons.dev/icons?i=go)  
+
+**🗄️ Veritabanı**  
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
+
+**☁️ DevOps & Tools**  
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Git](https://skillicons.dev/icons?i=git)
+
 
 ---
 
