@@ -31,15 +31,18 @@ Merhabalar, Ben Gökhan
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokhan9&theme=github-compact)
 
-
 ---
 
-### 🚀 Öne Çıkan Projelerim
+### 🚀 Geliştirdiğim ve Geliştirmekte Olduğum Projeler;
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=fmss-final-case&theme=tokyonight)](https://github.com/Gokhan9/fmss-final-case)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=fmss-final-case&theme=tokyonight)](https://github.com/Gokhan9/carrentalapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=fmss-final-case&theme=tokyonight)](https://github.com/Gokhan9/b2bapplication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=fmss-final-case&theme=tokyonight)](https://github.com/Gokhan9/FolksDevJAVA)
 
 ---
 
-### 📫 Bana Ulaş
+### 📫 Bana Ulaşabilirsiniz;
+
 [![Linkedin Badge](https://img.shields.io/badge/-Gökhan%20Cömert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokhancomert/)](https://www.linkedin.com/in/gokhancomert/)  
 [![Gmail Badge](https://img.shields.io/badge/-gcancomert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gcancomert@gmail.com)](mailto:gcancomert@gmail.com)
