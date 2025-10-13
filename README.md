@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Merhaba+👋+Ben+Gökhan;Backend+ve+Web+Geliştiricisiyim;Java,+Go,+React+ile+projeler+geliştiriyorum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Merhaba+👋+Ben+Gökhan;Backend+ve+Web+Geliştiricisiyim;Java,+Go,+React+ile+projeler+geliştiriyorum)](https://git.io/typing-svg)
 
 # Merhaba 👋, ben Gökhan
 
