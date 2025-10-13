@@ -12,7 +12,7 @@
 ### 🚀 Kullandığım Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,django,mysql,mongodb,postgresql,docker,git,linux,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,go,mysql,postgresql,docker,git,linux&perline=8" />
 </p>
 
 ---
