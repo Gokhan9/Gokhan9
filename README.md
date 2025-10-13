@@ -27,7 +27,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan9&layout=compact&theme=tokyonight)  
 
-![GitHub Activity Graph](https://github.com/Gokhan9/Gokhan9/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokhan9&theme=github-compact)
+
 
 ---
 
