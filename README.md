@@ -4,15 +4,15 @@
 
 - 🌐 Web: HTML, CSS, JavaScript, React
 - ⚙️ Backend: Java, Go
-- 🗄️ Veritabanı: MySQL, MongoDB, PostgreSQL
-- ☁️ DevOps & Tools: Docker, Git, Linux
+- 🗄️ Veritabanı: MySQL, PostgreSQL
+- ☁️ DevOps & Tools: Docker, Git
 
 ---
 
 ### 🚀 Kullandığım Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,go,mysql,postgresql,docker,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,mysql,postgresql,docker,git,&perline=8" />
 </p>
 
 ---
