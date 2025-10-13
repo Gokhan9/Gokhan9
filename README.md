@@ -38,6 +38,9 @@ Merhabalar, Ben Gökhan
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=fmss-final-case&theme=tokyonight)](https://github.com/Gokhan9/fmss-final-case)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=carrentalapp&theme=tokyonight)](https://github.com/Gokhan9/carrentalapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=b2bapplication&theme=tokyonight)](https://github.com/Gokhan9/b2bapplication)
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=FolksDevJAVA&theme=tokyonight)](https://github.com/Gokhan9/FolksDevJAVA)
 
 ---
