@@ -1,16 +1,29 @@
-## Hi there 👋
+# Merhaba 👋, ben Gökhan
 
-<!--
-**Gokhan9/Gokhan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Geliştirdiğim teknolojiler ve ilgi alanlarım:
 
-Here are some ideas to get you started:
+- 🌐 Web: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Java, Go
+- 🗄️ Veritabanı: MySQL, MongoDB, PostgreSQL
+- ☁️ DevOps & Tools: Docker, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Kullandığım Teknolojiler
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,django,mysql,mongodb,postgresql,docker,git,linux,figma&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)
+
+---
+
+✨ Linkedln: https://www.linkedin.com/in/gokhancomert/ 
+📫 Bana Ulaş: gcancomert@gmail.com
