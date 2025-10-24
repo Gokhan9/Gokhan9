@@ -8,10 +8,10 @@
 
 ### 💻 İlgi Alanlarım;
 
-- 🌐 Web: HTML, CSS, JavaScript, React  
-- ⚙️ Backend: Java, Go  
-- 🗄️ Veritabanı: MySQL, PostgreSQL  
-- ☁️ DevOps & Tools: Docker, Git
+- Web: HTML, CSS, JavaScript, React  
+- Backend: Java, Go  
+- Veritabanı: MySQL, PostgreSQL  
+- DevOps & Tools: Docker, Git
 
 ---
 
