@@ -10,7 +10,7 @@
 
 - Web: HTML, CSS, JavaScript, React  
 - Backend: Java, Go  
-- Veritabanı: MySQL, PostgreSQL  
+- Veritabanı: MySQL, PostgreSQL, MongoDB 
 - DevOps & Tools: Docker, Git
 
 ---
