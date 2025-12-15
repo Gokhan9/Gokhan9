@@ -35,6 +35,8 @@
 
 ## 🚀 Geliştirdiğim ve Geliştirmekte Olduğum Projeler
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9\&repo=taxihub-finalcase\&theme=tokyonight)](https://github.com/Gokhan9/taxihub-finalcase)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9\&repo=fmss-final-case\&theme=tokyonight)](https://github.com/Gokhan9/fmss-final-case)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9\&repo=carrentalapp\&theme=tokyonight)](https://github.com/Gokhan9/carrentalapp)
