@@ -18,7 +18,7 @@
 ## 🚀 Kullandığım ve İlgi Duyduğum Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,mysql,postgresql,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,mongodb,mysql,docker,git&perline=8" />
 </p>
 
 ---
