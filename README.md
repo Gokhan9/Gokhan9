@@ -20,13 +20,9 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokhan9&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokhan9&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan9&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan9&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
