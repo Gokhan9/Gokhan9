@@ -18,18 +18,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokhan9&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan9&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Öne Çıkan Projeler
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokhan9&repo=taxihub-finalcase&theme=tokyonight)](https://github.com/Gokhan9/taxihub-finalcase)
