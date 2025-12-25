@@ -8,9 +8,9 @@
 
 ## 💻 İlgi Alanlarım
 
-* **Web:** HTML, CSS, JavaScript, React
+* **Web:** React
 * **Backend:** Java, Go
-* **Veritabanı:** MySQL, PostgreSQL, MongoDB
+* **Veritabanı:** MongoDB, MySQL, PostgreSQL
 * **DevOps & Tools:** Docker, Git
 
 ---
@@ -18,7 +18,7 @@
 ## 🚀 Kullandığım ve İlgi Duyduğum Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,mongodb,mysql,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,go,react,mongodb,mysql,docker,git&perline=8" />
 </p>
 
 ---
