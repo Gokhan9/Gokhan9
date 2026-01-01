@@ -13,7 +13,7 @@
 ## 🚀 Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,react,mongodb,mysql,postgresql,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,go,react,mongodb,postgresql,mysql,docker,git&perline=8" />
 </p>
 
 ---
