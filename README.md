@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square" />
 </p>
 
+<img width="1366" height="768" alt="Gökhan Can CÖMERT Junior Software Engineer" src="https://github.com/user-attachments/assets/335b0dc4-08b4-41e3-9040-97fef5fe52be" />
+
 ---
 
 ## 🚀 Teknolojiler
