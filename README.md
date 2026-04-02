@@ -1,10 +1,6 @@
 # Merhabalar, Ben Gökhan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+ve+Web+Geliştiricisi;Java+ve+Go+ile+projeler+geliştiriyorum" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gokhan9&color=blue&style=flat-square" />
 </p>
 
